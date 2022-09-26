@@ -48,3 +48,17 @@ INSTRUCTIONS for naming the students' solution repository for assignments with m
 
 1 directory, 7 files
 ```
+./
+├── Assignment 0.ipynb
+├── README.md
+├── figures
+│   ├── README.md
+│   ├── gcp_work_example_screenshot_1.png
+│   ├── gcp_work_example_screenshot_2.png
+│   ├── gcp_work_example_screenshot_3.png
+│   ├── tw2834_gcp_work_example_screenshot_1.png
+│   ├── tw2834_gcp_work_example_screenshot_2.png
+│   └── tw2834_gcp_work_example_screenshot_3.png
+└── requirements.txt
+
+1 directory, 10 files
